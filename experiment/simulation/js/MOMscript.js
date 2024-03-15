@@ -1,23 +1,4 @@
-/* functions defined
-point(pointx value, pointy value, letter to denote point) #class
-pointtrans(point, translating reference point)
-pointdisp(point, canvas2Dcontext, width of line, stroke color, fill color, font color, 
-				whether tracing point, position of tracing point)
-pointdist(point1,point2)
-pointjoin(point1,point2,canvas2Dcontext,color of line,width of line)
-pointtrace(pointx,pointy,canvas2Dcontext,color of line,width of line)
-deg(radian angle)
-rad(degree angle)
-drawrect(center of rectangle #point, length of rectangle, width of rectangle, corner radius, canvas2Dcontext, 
-				stroke color, fill color, stroke line width)
-drawArrow(arrow pointx,arrow pointy,canvas2Dcontext,angle by ray with horizontal,horizontal length of arrow, 
-				included angle,stroke color,line width,fill color)
-roundd( number to be rounded, number of digits after decimal point )	
-plotgraph(pointx,pointy,canvas2Dcontext,array truncate limit,color of line,width of line)				
-*/
-/*
-locateincanvas(id,xco,yco)
-*/
+
 //Custom defined class for Point (for coordinates in a system)
 function point(xcoord,ycoord,letter)
 {
