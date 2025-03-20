@@ -46,6 +46,11 @@ em:current font size
   #variables {
     width: 200%;
   }
+  th,
+  td {
+    width: 6rem;
+    font-size: 1.4rem;
+  }
 }
 
 /* **************************** */
@@ -335,6 +340,11 @@ em:current font size
   #newComment {
     font-size: 1.4rem;
   }
+  th,
+  td {
+    width: 4.5rem;
+    font-size: 1rem;
+  }
 
   /* .datatable table {
       border: 1px solid #000011;
@@ -411,6 +421,27 @@ em:current font size
     /* height: 100%; */
     image-rendering: crisp-edges;
     -moz-image-rendering: crisp-edges;
+  }
+}
+@media (max-width: 25em) {
+  th,
+  td {
+    width: 4rem;
+    font-size: 1rem;
+  }
+}
+@media (max-width: 22em) {
+  th,
+  td {
+    width: 3.5rem;
+    font-size: 1rem;
+  }
+}
+@media (max-width: 20em) {
+  th,
+  td {
+    width: 3.2rem;
+    font-size: 0.8rem;
   }
 }
 /* 
