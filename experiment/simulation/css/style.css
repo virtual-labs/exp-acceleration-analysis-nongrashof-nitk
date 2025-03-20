@@ -550,8 +550,19 @@ th {
   border-collapse: collapse;
 }
 
+th {
+  background-image: linear-gradient(
+    to bottom,
+    var(--clr-side-background2),
+    var(--clr-side-background3)
+  );
+  background-clip: text;
+  color: transparent;
+  font-weight: 700;
+}
+
 td,
 th {
-  width: 6rem;
+  width: 8rem;
   text-align: center;
 }
