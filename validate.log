@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-acceleration-analysis-nongrashof-nitk/exp-acceleration-analysis-nongrashof-nitk/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-acceleration-analysis-nongrashof-nitk/exp-acceleration-analysis-nongrashof-nitk/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true
