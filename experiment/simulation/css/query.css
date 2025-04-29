@@ -43,9 +43,6 @@ em:current font size
     height: 2.8rem;
   }
 
-  #variables {
-    width: 200%;
-  }
   th,
   td {
     width: 6rem;
@@ -84,10 +81,6 @@ em:current font size
   .div__control img {
     width: 3rem;
     height: 2.8rem;
-  }
-
-  #variables {
-    width: 200%;
   }
 }
 
@@ -175,10 +168,6 @@ em:current font size
     border: none;
     border-top: 1px solid rgba(177, 176, 176, 0.855);
   }
-
-  #variables {
-    width: 100%;
-  }
 }
 
 /* **************************** */
@@ -197,10 +186,6 @@ em:current font size
     height: 100%;
     border: none;
     border-top: 1px solid rgba(177, 176, 176, 0.855);
-  }
-
-  #variables {
-    width: 100%;
   }
 }
 
@@ -265,10 +250,6 @@ em:current font size
     z-index: 99;
     overflow: hidden;
   }
-
-  #variables {
-    width: 100%;
-  }
 }
 
 /* **************************** */
@@ -282,9 +263,7 @@ em:current font size
 
   .title-div h1 {
     padding: 0.2rem;
-
     font-size: 1.6rem;
-    /* text-align: center; */
   }
   .div__control {
     gap: 2rem;
@@ -411,9 +390,7 @@ em:current font size
       font-size: 14px;
        
      } */
-  #variables {
-    width: 100%;
-  }
+
   canvas#simscreen {
     align-self: center;
     display: block;
